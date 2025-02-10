@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+face-recognition
+deepface
+numpy
+sqlite3
+pickle
+concurrent.futures
+scikit-learn
